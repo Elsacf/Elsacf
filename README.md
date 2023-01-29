@@ -1,4 +1,4 @@
-### Hola, soy Elsa
+### Hola, soy Elsa 👩🏽
 
 ¿Otra persona que se ha reinventado para ser desarrolladora web? Eso es justo lo que pensé al tener que escribir algo para presentarme. Pero, ¿qué más puede decir alguien como yo, que ha estado gestionando equipos en el sector turístico y cultural durante años y de repente decidió dar un cambio de 180 grados? 
 Bueno, mi nombre es Elsa, hace unos meses terminé un bootcamp de desarrollo front end y desde entonces no he parado de practicar la programación. Lo puedes comprobar revisando mi actividad en Github o los proyectos que he creado desde entonces.
